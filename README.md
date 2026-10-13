@@ -1,5 +1,8 @@
 # Pluto — Arma 3 asset pack builder
 
+# This Tool was Created with Claude Opus 5.5!
+# Development on the future of this tool is not certain
+
 Drag 3D models in, get a finished Arma 3 mod out.
 
 ## Using it
